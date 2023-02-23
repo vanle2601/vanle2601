@@ -1,8 +1,7 @@
 ### Hi! I'm Van 👋
 
 Welcome to Van's profile! 
-Van is a passionate Front End dev that highkey fangirls to new UX/ UI libraries, tech talks, building application and just general human's ideas. Like recently I've
-got talked to follow this guy who can talk backwards:)
+Van is a passionate Front End dev that highkey fangirls to new UX/ UI libraries, tech talks, building application and just general human's ideas.
 
 🤔 Little things I love besides coding probably are {
 - animals: CATS 🐈,
