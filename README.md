@@ -12,9 +12,8 @@ Back to serious business 💼 {
 
 🤔 Little things I love besides coding probably are {
 - animals: CATS 🐈,
-- drinks: coffee/ protein shake 🧊☕, 
-- guilty pleasures: binging Modern Family (Phil is my fav) while eating 🎥, 
-- activities: hitting PR on bench press (because how it really humbles me everytime) 🏋️,
+- drinks: coffee/ protein shake (honeycomb best flavour) 🧊☕, 
+- guilty pleasures: binging Modern Family (Phil is my fav) while eating 🎥,
 - music: useEffect(() => {
     fetch("https://www.youtube.com/playlist?list=PL-tIS2zYze5xcFSqaQNyU6m8XzQX70Ii0")
     .then(response => response.json()
